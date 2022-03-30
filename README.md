@@ -1,6 +1,6 @@
 <a href="https://github.com/PSYCHO-PICCHI/"><img src="https://i.ibb.co/HrbLQL3/Screenshot-2022-0327-195405.png" alt="Screenshot-2022-0327-195405" border="0"></a>
 
-#  Command
+## <b>installation</b>
 ```
 🔗 pkg update
 🔗 pkg upgrade
